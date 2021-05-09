@@ -1,0 +1,15 @@
+.pokemon-info{
+    display: block;
+    margin-left: 50px;
+    margin-top: 3%;
+    
+}
+
+.pokemon-info .pokemon-name {
+    text-transform: uppercase;
+}
+
+.pokemon-info .pokemon-image {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

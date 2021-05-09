@@ -1,0 +1,24 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<header>
+    <h1 routerLink="/Main-Component">Pokedex Estiam</h1>
+    <span>
+      <img class="pb-1" src="../../../assets/pokeball-48.ico" alt="pokedex" width="60vh" >
+    </span>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-crimson">
+        
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" routerLink="/Main-Component">My Team <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" routerLink="/Pokemon-List-Component">Pokemons <span class="sr-only">(current)</span></a>
+              </li>
+         </ul>
+        </div>
+
+        
+    </nav>
+</header>
+
+<router-outlet></router-outlet>

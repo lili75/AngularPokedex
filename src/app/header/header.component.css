@@ -1,0 +1,23 @@
+header {
+    padding: 20px 0px;
+    text-align:  center;
+    background-color:#F23313
+}
+header h1 {
+    text-transform: uppercase;
+    color:#201F1E;
+    letter-spacing: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  ;
+}
+
+nav {
+    background-color: #B2ACAB ;
+    padding: 20px 0px;
+}
+
+img {
+    position: relative;
+    right: 550px;
+    bottom: 40px;
+
+}
