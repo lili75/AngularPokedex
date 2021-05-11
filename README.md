@@ -1,3 +1,12 @@
+# Explications Projet
+
+Utilisation de l'API PokeApi
+Réalisation d'un menu horizontal (navbar) avec un onglet pour la team constituée des pokemons catpurés (my team)
+Barre de recherche pour filtrer le pokemon voulu
+Page de description par pokemon avec possibilité de le capturer et d'être redirigé vers les différentes évolutions de celui ci
+Utilisation du routeur et du local storage
+Code couleur par type et design accueil aux couleurs d'une pokeball
+
 # PokedexInterface
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
